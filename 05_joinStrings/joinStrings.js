@@ -12,7 +12,7 @@ const firstName = 'Carlos', lastName = 'Stevenson', thisYear = 1965, birthYear =
 const greeting = "Hello! My name is " + firstName + " " + lastName + " " + "and I am " + (thisYear-birthYear) + " years old.";
 
 const fullName = `${firstName} ${lastName}`;
-
+const age = thisYear - birthYear;
 
 
 
