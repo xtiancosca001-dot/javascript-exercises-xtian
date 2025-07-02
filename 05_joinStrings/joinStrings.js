@@ -8,7 +8,7 @@
 */
 
 // Add your code right below, good luck!
-const firstName = 'Carlos', lastName = 'Stevenson', thisYear = 1965;
+const firstName = 'Carlos', lastName = 'Stevenson', thisYear = 1965, birthYear = 1947;
 
 
 
